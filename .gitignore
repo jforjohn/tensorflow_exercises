@@ -102,3 +102,9 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# preoject files
+*_data/
+results_*/
+.vscode/
+*_test*
